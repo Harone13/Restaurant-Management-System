@@ -14,7 +14,7 @@ This repository showcases my approach to designing and developing business appli
 * Business analysis
 * Maintainable code
 
-The long-term goal is to build a production-ready commercial desktop application suitable for small and medium-sized restaurants.
+The long-term goal is to build a production-ready desktop application suitable for small and medium-sized restaurants.
 
 ---
 
